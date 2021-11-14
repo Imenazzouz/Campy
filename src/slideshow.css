@@ -1,0 +1,28 @@
+.containerSlide {
+    width:1101px;
+    height: 200px;
+    padding-top: 5px;
+       padding-left: 5cm;
+       padding-right: 2.5cm;
+       box-shadow: black;
+  
+       
+    
+  
+   
+  }
+  
+  .containerSlide img {
+    object-fit: cover;
+      
+    padding: 20px;
+    height: 230px;
+     width: 300px;
+     overflow-x: scroll;
+     
+     
+  
+  }
+  
+  
+  

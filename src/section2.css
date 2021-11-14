@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css?family=Akronim');
+
+.slogan{
+  background-color: midnightblue;
+  height: 300px;
+
+}
+
+.article {
+  margin-top: 30px;
+
+  /*  leverage cascade for cross-browser gradients  */
+  background: radial-gradient(
+    hsl(100 100% 60%), 
+    hsl(200 100% 60%) 
+  ) fixed;
+  background: conic-gradient(
+    hsl(100 100% 60%), 
+    hsl(200 100% 60%), 
+    hsl(100 100% 60%) 
+  ) fixed;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  background-color: rgb(15, 15, 68);
+} 
+
+
+
+.article h1 {
+  font-size: 10vmin;
+  line-height: 1.1;
+  max-inline-size: 15ch;
+  margin: auto;
+}
+
+.article p {
+  font-family: "Dank Mono", ui-monospace, monospace;
+  margin-top: 1ch;
+  line-height: 1.35;
+  max-inline-size: 40ch;
+  margin: auto;
+}
+  
+
+.row{ 
+    padding-top: 20px;
+    margin: 50px;
+    align-items: center ;
+    position: relative;
+    display: flex;
+}
+
+
+.box1{
+    flex-basis:24% ; 
+    padding:3px ;  
+    transition : transform 0.5s; 
+    margin-right: 10px;
+}
+.box1 img{
+    width: 700px ; 
+    height: 1100px ; 
+    border-radius: 16px;
+}
+
+.box2{
+    
+    
+
+    position:absolute;
+    
+    background-color: rgba(189, 197, 204, 0.351);
+
+top: 20%;
+left: 3%;
+right: 5%;
+
+height: 850px;
+width: 600px;
+
+border-radius: 16px;
+    
+}
+
+ .box2 p {
+     opacity: 100%;
+     z-index: 0;
+    color: rgb(0, 0, 0);
+    font-family: "Dancing Script"; font-size: 80px;
+    font-weight: bold;
+    position: relative;
+    top: 20%;
+    left: 15%;
+    right: 15%;
+    line-height: 130px;
+
+    letter-spacing: 1px;
+
+    
+}
+.box{
+    margin-left: 30px;
+    padding: 20px;
+}
+.box3 img {
+    object-fit: cover;
+    display: flex;
+    width: 800px;
+    height: 325px;
+    padding: 25px;
+
+    border-radius: 30px;
+    
+}
+
+.desc p {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 45px;
+    position: absolute;
+    position: center;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+background-color: rgb(133, 133, 172,0.3);
+margin: 70px;
+
+
+
+}
+
+.box4 p{
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    padding : 30px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin: 30px;
+    width: 200px;
+    border-radius: 20px;
+    position: left;
+}
+
+.box5 p{
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    padding : 30px;
+    color: white;
+    font-size: 30px;
+    letter-spacing: 1px;
+    width: 300px;
+    border-radius: 20px;
+    position: absolute;
+    right: 18px;
+    margin-right: 200px;
+
+    
+
+}
+
+.box6{
+    display: flex;
+    
+}
+
+
+.all{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.tips0{
+    position: absolute;
+    top: 4%;
+    right: 60%;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    color: rgb(185, 162, 29);
+    letter-spacing: 2px;
+    
+
+}

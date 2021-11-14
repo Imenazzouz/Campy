@@ -1,0 +1,62 @@
+
+  
+
+ .tab-title{
+     padding-left: 500px;
+
+ margin: 50px;
+ font-size:80px;
+ font-weight: 500;
+ font-family: Georgia,serif;
+ color: rgba(7, 17, 112, 0.753);
+ }
+
+ .imagess{
+     margin-left:300px;
+     margin-right: 300px;    
+     font-family: 'Poppins';
+     letter-spacing: 1.5px;
+     font-size: 30px;
+ }
+
+ .description{
+    margin-left:300px;
+    margin-right: 200px;    
+    font-family: 'Poppins';
+    letter-spacing: 1px;
+    font-size: 30px;
+
+ }
+
+ .maps{
+     margin-top: 60px;
+     margin-left: 300px;
+     margin-right: 200px;
+
+
+ }
+ .maps p {
+     font-size: 50px;
+     font-family: "Poppins";
+     text-align: center;
+     background-color: black;
+     color: blanchedalmond;
+ }
+
+
+ .wether{
+     margin-top: 800px;
+     margin-left: 300px;
+     margin-right: 300px;
+
+
+ }
+
+ .wether p {
+    font-size: 50px;
+    font-family: "Poppins";
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+

@@ -1,0 +1,30 @@
+
+
+
+
+
+ .row1{
+   display: flex;
+   padding : 20px;
+   margin: 10px;
+   border-color: indigo;
+ }
+
+.label{
+    font-family: "Poppins";
+    text-align: center;
+    color: indigo;
+    font-size: 30px;
+    
+}
+
+    .im{
+  
+  
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+    border-radius: 40px;
+
+}
+
