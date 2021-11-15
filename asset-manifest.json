@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Campy/static/css/main.79496fcf.chunk.css",
-    "main.js": "/Campy/static/js/main.988096da.chunk.js",
-    "main.js.map": "/Campy/static/js/main.988096da.chunk.js.map",
+    "main.css": "/Campy/static/css/main.e5ecfd6e.chunk.css",
+    "main.js": "/Campy/static/js/main.7a335498.chunk.js",
+    "main.js.map": "/Campy/static/js/main.7a335498.chunk.js.map",
     "runtime-main.js": "/Campy/static/js/runtime-main.7e3a9041.js",
     "runtime-main.js.map": "/Campy/static/js/runtime-main.7e3a9041.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/Campy/static/css/2.b57b7cfd.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.ae9188b5.chunk.js.map": "/Campy/static/js/3.ae9188b5.chunk.js.map",
     "index.html": "/Campy/index.html",
     "static/css/2.b57b7cfd.chunk.css.map": "/Campy/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.79496fcf.chunk.css.map": "/Campy/static/css/main.79496fcf.chunk.css.map",
+    "static/css/main.e5ecfd6e.chunk.css.map": "/Campy/static/css/main.e5ecfd6e.chunk.css.map",
     "static/js/2.630cfea0.chunk.js.LICENSE.txt": "/Campy/static/js/2.630cfea0.chunk.js.LICENSE.txt",
     "static/media/fire.32b3d455.jpg": "/Campy/static/media/fire.32b3d455.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.7e3a9041.js",
     "static/css/2.b57b7cfd.chunk.css",
     "static/js/2.630cfea0.chunk.js",
-    "static/css/main.79496fcf.chunk.css",
-    "static/js/main.988096da.chunk.js"
+    "static/css/main.e5ecfd6e.chunk.css",
+    "static/js/main.7a335498.chunk.js"
   ]
 }
