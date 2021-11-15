@@ -12,8 +12,9 @@
 
 .label{
     font-family: "Poppins";
+    font-weight: bold;
     text-align: center;
-    color: indigo;
+    color: rgb(20, 0, 130);
     font-size: 30px;
     
 }
@@ -21,10 +22,10 @@
     .im{
   
   
-    width: 400px;
-    height: 300px;
-    padding: 20px;
-    border-radius: 40px;
+    width: 300px;
+    height: 200px;
+    padding: 40px;
+    border-radius: 46px;
 
 }
 

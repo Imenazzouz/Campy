@@ -8,13 +8,16 @@ const Images = () => {
         < div classname="bx">
         
            <img className="im" src={'https://www.marhba.com/images/Galite.jpg'}   />  
-           <div className="label"> TABARKA </div>  
+           <div className="label"> 
+            <a href="/Tabarka">
+                TABARKA </a>
+                </div>  
         </div>
 
         < div classname="bx">
          <img className="im" src={'https://www.marhba.com/images/hawaria.jpg'}   />
         
-            <div className="label">EL HAOUARIA  </div>
+            <div className="label"> EL HAOUARIA  </div>
            </div>
    < div classname="bx">
       <img  className="im" src={'https://www.marhba.com/images/alternatif/alternatif2020/Camping_Tunisie_Ain_Kanassira_.jpg'}   />
@@ -55,7 +58,7 @@ const Images = () => {
             
            </div>
    < div classname="bx">
-      <img  className="im" src={'https://lh3.googleusercontent.com/proxy/Cy_MRnh4d7BePtYMmDSs-FpuZyCAQf42qC9HsNGKeXqW9YHOWeTf-U5fNYv7UuuEfXQx6mBuDQ4r43yox_Sn_NefYDlNnEGMMQ'}   />
+      <img  className="im" src={'https://www.voyage-tunisie.info/wp-content/uploads/2017/10/Tamerza-nature-800x500.jpg'}   />
       <div className="label"> TOZEUR </div>
          
    </div>

@@ -3,11 +3,9 @@
     height: 100%;
     width: 300px;
     position: fixed;
-    z-index: 1;
     top: 0;
     left: 0;
     background-color: rgba(83, 81, 81, 0.527);
-    overflow-x: hidden;
     padding-top: 20px;
     
 
@@ -16,6 +14,8 @@
 
 
 .bar-item{
+   
+    cursor: pointer;
     padding: 8px 10px 10px 80px;
     text-decoration: none;
     font-size: 30px;
@@ -24,6 +24,10 @@
     color: #f7f7f7;
     display: block;
 }
+.bar-item a:hover{
+    cursor: pointer;
+}
+
 
 .right-menu a:hover {
     color: #f1f1f1;
@@ -33,11 +37,11 @@
 
 
  .container3{
-     margin-top:auto;
-     margin-left: 350px;
+     margin-left: 300px;
  }
 
  .top-menu{
+    margin-left: 292px;
    
      margin-top: 50px;
      background-color: rgb(69, 67, 71);
@@ -47,4 +51,9 @@
     color: #59338b;
     background-color: grey;
  }
-  
+
+ .images
+ {
+     margin-left: auto;
+
+ }  

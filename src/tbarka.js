@@ -6,8 +6,9 @@ import Wether from './wether'
 
 const Tabarka = () => {
     return ( 
+        <div>
        
-    <div className="container3">
+   
     <div className="top-menu">
     <a className="bar-item"  href="#" > GOUV   </a>
               <a className="bar-item" href="#" > SITES   </a>
@@ -18,6 +19,7 @@ const Tabarka = () => {
 
 
     </div>
+    <div className="containerx">
       <div className='right-menu'>
           
               <a className="bar-item"  href="#" > photos    </a>
@@ -30,14 +32,14 @@ const Tabarka = () => {
           </div>
       <div className ="imagess">
           
-     <img src={'https://www.marhba.com/images/experiences/galite_2016.jpg'  } height='700px'  />
+     <img src={'https://www.marhba.com/images/experiences/galite_2016.jpg'  } height='500px'  />
      
       </div>
       <div className="description">  
      Probablement le spot de camping le plus convoité ! Galite est un archipel constitué d’un ensemble d'îles rocheuses.
       L’endroit, calme et idyllique, offre un moment de détente et de tranquillité pour les campeurs
      </div>
-     <div className="maps">
+     <div className="mapss">
          <p> location </p>
          
          <GoogleMaps />
@@ -52,6 +54,7 @@ const Tabarka = () => {
      </div>
 
     
+ </div>
  </div>
 
      );
