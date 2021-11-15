@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Camy/static/css/main.91d764e2.chunk.css",
+    "main.js": "/Camy/static/js/main.d3540af4.chunk.js",
+    "main.js.map": "/Camy/static/js/main.d3540af4.chunk.js.map",
+    "runtime-main.js": "/Camy/static/js/runtime-main.61cf37b3.js",
+    "runtime-main.js.map": "/Camy/static/js/runtime-main.61cf37b3.js.map",
+    "static/css/2.b57b7cfd.chunk.css": "/Camy/static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.b142a15a.chunk.js": "/Camy/static/js/2.b142a15a.chunk.js",
+    "static/js/2.b142a15a.chunk.js.map": "/Camy/static/js/2.b142a15a.chunk.js.map",
+    "static/js/3.5209eb7f.chunk.js": "/Camy/static/js/3.5209eb7f.chunk.js",
+    "static/js/3.5209eb7f.chunk.js.map": "/Camy/static/js/3.5209eb7f.chunk.js.map",
+    "index.html": "/Camy/index.html",
+    "static/css/2.b57b7cfd.chunk.css.map": "/Camy/static/css/2.b57b7cfd.chunk.css.map",
+    "static/css/main.91d764e2.chunk.css.map": "/Camy/static/css/main.91d764e2.chunk.css.map",
+    "static/js/2.b142a15a.chunk.js.LICENSE.txt": "/Camy/static/js/2.b142a15a.chunk.js.LICENSE.txt",
+    "static/media/fire.32b3d455.jpg": "/Camy/static/media/fire.32b3d455.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61cf37b3.js",
+    "static/css/2.b57b7cfd.chunk.css",
+    "static/js/2.b142a15a.chunk.js",
+    "static/css/main.91d764e2.chunk.css",
+    "static/js/main.d3540af4.chunk.js"
+  ]
+}
