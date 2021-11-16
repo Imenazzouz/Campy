@@ -7,8 +7,8 @@ const Page2 = () => {
 
     <div className="Page2">
       <div className="top-menu">
-           <a className="bar-item"  href="#" > GOUV   </a>
-           <a className="bar-item" href="#" > SITES   </a>
+           <a className="bar-item"  href="/" > GOUV   </a>
+           <a className="bar-item" href="" > SITES   </a>
            <a className="bar-item" href="#" > PLACES    </a>
   
      </div>

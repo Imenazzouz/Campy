@@ -55,7 +55,7 @@ position={{
 
 
 const mapStyles = {
-    width: '46%',
+    width: '59.5%',
     height: '50%',
     
     

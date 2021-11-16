@@ -51,7 +51,7 @@ const Section2 = () => {
                         <div className='image-2'>
 
                         <div className='desc'> 
-                        <p>  D'ont forget about lightening</p>
+                        <p>  Don't forget about lightening</p>
                         </div>
                         <img src={'https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FtcGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60'} />
                         </div>

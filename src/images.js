@@ -9,8 +9,9 @@ const Images = () => {
         
            <img className="im" src={'https://www.marhba.com/images/Galite.jpg'}   />  
            <div className="label"> 
-            <a href="/Tabarka">
-                TABARKA </a>
+               <a href="/Tabarka">
+                  TABARKA 
+                </a>
                 </div>  
         </div>
 

@@ -9,8 +9,8 @@ const Tabarka = () => {
         <div>
        
    
-    <div className="top-menu">
-    <a className="bar-item"  href="#" > GOUV   </a>
+    <div className="top-menue">
+    <a className="bar-item"  href="/" > GOUV   </a>
               <a className="bar-item" href="#" > SITES   </a>
               <a className="bar-item" href="#" > PLACES    </a>
 
@@ -19,14 +19,9 @@ const Tabarka = () => {
 
 
     </div>
+        
     <div className="containerx">
-      <div className='right-menu'>
-          
-              <a className="bar-item"  href="#" > photos    </a>
-              <a className="bar-item" href="#" > videos    </a>
-              <a className="bar-item" href="#" > pinned    </a>
-              
-      </div>
+      
       <div className="tab-title">
                Galite,TABARKA
           </div>
