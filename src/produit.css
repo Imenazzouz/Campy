@@ -1,0 +1,21 @@
+.produit-slider{
+    background-color: rgba(128, 128, 128, 0.329);
+}
+.produit-slider-item
+{   
+    border-radius: 25%;
+}
+.produit-item-link{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+.produit-item-link:hover{
+    text-decoration: none;
+    color: black;
+}
+.produit-item-title
+{
+text-align: center;
+}

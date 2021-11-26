@@ -1,0 +1,102 @@
+.button {
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 152px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    bottom: 10rem;
+    position: relative;   
+  }
+  .buy-pannel{
+      left: 50%;
+      position: absolute;
+      top: 50%;
+  }
+  .buy-pannel:hover{
+    cursor: pointer;
+    
+}
+  .title
+  {
+    position: relative;
+    left: 0rem;
+    bottom: 15em;
+  }
+  .QuantityPicker
+  {
+      position: relative;
+      left: 1rem;
+      bottom: 20rem;
+  }
+  .title{
+    display: block;
+    font-size: 1.5rem;
+    margin-top: 3em;
+    margin-bottom: 0.83em;
+    
+    font-weight: bold;
+  }
+
+ 
+
+.ratings {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+.ratings-section {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+.ratings-section li {
+		display: inline-block;
+        margin-right: 15rem;
+	}
+.checked {
+        color: orange;
+      }
+.avatar{
+    border-radius: 50%;
+    }
+.ratings-title{
+        font-weight: bold;
+    }
+
+.image-and-rating > *
+    {
+        display: inline-block;
+    }
+    .other-products {
+        display: table;   /* Allow the centering to work */
+        margin: 0 auto;
+    }
+    
+    .other-products-items {
+        min-width: 696px;
+        list-style: none;
+        padding-top: 20px;
+        }
+    .other-products-items li {
+            display: inline-block;
+            margin-right: 15rem;
+        }
+        .other-products-items li:hover{
+          cursor: pointer;
+          background: #e1e1e1;
+          border-top: 1px solid black;
+        }
+    
+        .image-and-rating:hover{
+      
+     
+    }
+    .avatar:hover
+    { 
+      cursor: pointer;
+      background: #e1e1e1;
+      border-top: 1px solid #d0d0d0;
+    }

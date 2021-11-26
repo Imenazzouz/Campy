@@ -6,7 +6,7 @@ const Section2 = () => {
     return ( 
 
 
-<div>
+<div className="section2">
 
     < div className="slogan">
     <div class="article">
@@ -33,7 +33,7 @@ const Section2 = () => {
                             <p className="tips"> For a premiun <br /> camping <br /> experience !  </p>
                         </div>
 
-                        <p className="tips0" > Here some tips  </p>
+                        <p className="tips0" > Here is some tips  </p>
 
                        
                     </div>
@@ -84,11 +84,7 @@ const Section2 = () => {
                    </div>
                    </div>
 
-                   <div className="box6">
-                      <Slideshow/>
-
-                   </div>
-                       
+                     
 
 
 

@@ -1,0 +1,122 @@
+
+  .right-menu{
+    margin-top: 50px;
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(83, 81, 81, 0.527);
+    padding-top: 20px;
+    
+
+}
+
+
+
+.bar-item{
+    left: 10px;
+
+   
+    cursor: pointer;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Poppins';
+    
+    color: #f7f7f7;
+    display: block;
+}
+.bar-item a:hover{
+    cursor: pointer;
+}
+
+
+.right-menue a:hover {
+    color: #f1f1f1;
+    background-color: grey;
+  }
+  
+
+
+ 
+
+ .top-menue{
+     display:flex;
+   
+     margin-top: 0px;
+     background-color: rgb(69, 67, 71);
+     
+ }
+ .top-menue a:hover {
+    color: #59338b;
+    background-color: grey;
+ }
+
+ .tab-title{
+     padding-left: 500px;
+
+ margin: 50px;
+ font-size:60px;
+ font-weight: 500;
+ font-family: Georgia,serif;
+ color: rgba(7, 17, 112, 0.753);
+ }
+
+ .imagess img{
+     margin-left:300px;
+     margin-right:70px;
+
+
+     width: 900px;
+     height: 500px;
+ }
+
+ .description{
+    margin-left:300px;
+    margin-right: 300px;    
+    font-family: 'Poppins';
+    letter-spacing: 1px;
+    font-size: 23px;
+
+ }
+
+ .mapss{
+    width: 900px;
+
+     margin-top: 60px;
+     margin-left: 300px;
+
+
+ }
+ .mapss p {
+    margin-left: 0px;
+    
+     font-size: 50px;
+     font-family: "Poppins";
+     text-align: center;
+     background-color: black;
+     color: blanchedalmond;
+ }
+
+
+ .wether{
+     margin-top: 500px;
+     margin-left: 300px;
+     width: 900px;
+     
+
+
+ }
+
+ .wether p {
+    font-size: 50px;
+    font-family: "Poppins";
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.containerx{
+    margin-left: 0px;
+}
